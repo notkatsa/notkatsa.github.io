@@ -1,6 +1,6 @@
-title: Notis
+title: Notisbuilds
 description: Building cool stuff in public
-author: Notis
+author: Notisbuilds
 theme: minima
 plugins:
   - jekyll-feed
@@ -11,7 +11,7 @@ permalink: /posts/:title/
 
 # Social links
 twitter_username: notisbuilds
-github_username: notis
+github_username: notkatsa
 
 # Build settings
 exclude:
