@@ -1,0 +1,20 @@
+title: Notis
+description: Building cool stuff in public
+author: Notis
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: /posts/:title/
+
+# Social links
+twitter_username: notisbuilds
+github_username: notis
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
