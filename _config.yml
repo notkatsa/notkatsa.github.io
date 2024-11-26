@@ -13,6 +13,15 @@ permalink: /posts/:title/
 twitter_username: notisbuilds
 github_username: notkatsa
 
+# Footer links
+footer_links:
+  - title: Contact
+    url: /contact/
+  - title: Returns
+    url: /returns/
+  - title: Terms
+    url: /terms/
+
 # Build settings
 exclude:
   - README.md
